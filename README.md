@@ -1,5 +1,9 @@
 <div align="center">
 
+<h1>TODO</h1>
+
+Traduction des prompts en français...
+
 <img src="./images/fabric-logo-gif.gif" alt="fabriclogo" width="400" height="400"/>
 
 # `fabric`
